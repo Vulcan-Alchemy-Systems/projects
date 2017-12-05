@@ -1,6 +1,6 @@
 vulcanmedical.org       3000
-vulcanalchemy.biz       3001
-vulcaniot.com           3002
-vulcaniot.net           3003
-vulcanalchemy.org       3004
-vulcanalchemyonline.com 3005
+vulcanalchemy.biz       3002
+vulcaniot.com           3004
+vulcaniot.net           3006
+vulcanalchemy.org       3008
+vulcanalchemyonline.com 3010
